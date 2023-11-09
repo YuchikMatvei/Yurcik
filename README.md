@@ -1,1 +1,10 @@
-# Yurcik
+# Yurcik Лекция 2
+![file-0](https://github.com/YuchikMatvei/Yurcik/assets/149879459/cf42fe14-8cc7-4e11-9b2b-356923bb6a0a)
+![file-1](https://github.com/YuchikMatvei/Yurcik/assets/149879459/3da2b4c1-5a7f-47e6-a90a-902c699896c3)
+![file-2](https://github.com/YuchikMatvei/Yurcik/assets/149879459/3eb63d25-9453-4bba-85a6-f9f1ae85749e)
+![file-3](https://github.com/YuchikMatvei/Yurcik/assets/149879459/6c2c7dc9-0fa7-4f3f-8952-ed628dc604a8)
+![file-4](https://github.com/YuchikMatvei/Yurcik/assets/149879459/1333a537-2ae8-41f1-87ca-9290f7d58c9d)
+![file-5](https://github.com/YuchikMatvei/Yurcik/assets/149879459/10c3060c-8d45-429a-843c-41ac11cc6ab4)
+![file-6](https://github.com/YuchikMatvei/Yurcik/assets/149879459/69b865ea-6787-490e-b153-1bccf7c4e787)
+![file-7](https://github.com/YuchikMatvei/Yurcik/assets/149879459/9dc80475-d388-48e2-9659-0cdfb530e011)
+![file-8](https://github.com/YuchikMatvei/Yurcik/assets/149879459/c5dd5216-bc92-4fe2-98a4-168ce74c524a)
